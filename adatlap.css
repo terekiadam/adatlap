@@ -4,4 +4,9 @@ body {
 
 #lista {
     color: olive;
+    color: olive;
+    height: 500px;
+    margin: auto;
+    width: 40%;
+    padding: 200px;
 }
