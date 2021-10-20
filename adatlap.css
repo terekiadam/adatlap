@@ -10,3 +10,6 @@ body {
     width: 40%;
     padding: 200px;
 }
+ul:hover {
+    background-color: aquamarine ;
+  }
